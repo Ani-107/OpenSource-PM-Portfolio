@@ -19,13 +19,16 @@ Initial portfolio package created for the Dify open-source product management co
 - `Dify/rfc.md`
 - `Dify/github-feature-proposal.md`
 - `Dify/contribution-plan.md`
+- `Dify/maintainer-submission-kit.md`
 - `Dify/portfolio-case-study.md`
 - `Dify/lessons-learned.md`
+- `RECRUITER_BRIEF.md`
 - `.gitignore`
 
 ### Files Modified
 
-- None inside the final public portfolio after initial creation.
+- `README.md` improved with a recruiter TL;DR and clearer upstream contribution path.
+- `Dify/portfolio-case-study.md` updated to remove office-document references from the public artifact list.
 
 ### Files Excluded From Public Repo
 

@@ -1,5 +1,20 @@
 # Open Source PM Portfolio
 
+## Recruiter TL;DR
+
+This repo is a portfolio-grade AI product management case study showing how I would contribute strategically to a major open-source AI platform.
+
+- **Project analyzed:** [Dify](https://dify.ai/)
+- **Strategic recommendation:** **Dify Quality Hub**, a native evaluation, tracing, feedback triage, and cost analytics layer for production AI workflows.
+- **Why it matters:** Dify already helps teams build AI apps quickly; the next growth lever is helping teams measure quality, debug failures, control cost, and govern releases.
+
+If you only have three minutes, read:
+
+1. [Recruiter Brief](RECRUITER_BRIEF.md)
+2. [Executive Summary](Dify/executive-summary.md)
+3. [Portfolio Case Study](Dify/portfolio-case-study.md)
+4. [Maintainer Submission Kit](Dify/maintainer-submission-kit.md)
+
 Strategic product management contribution portfolio for open-source AI infrastructure projects.
 
 This repository currently contains a complete discovery and contribution package for [Dify](https://dify.ai/), an open-source platform for building agentic workflows, RAG applications, and AI agents.
@@ -39,8 +54,10 @@ flowchart LR
 | [Dify/rfc.md](Dify/rfc.md) | Maintainer-ready RFC draft |
 | [Dify/github-feature-proposal.md](Dify/github-feature-proposal.md) | GitHub issue/discussion-ready feature proposal |
 | [Dify/contribution-plan.md](Dify/contribution-plan.md) | Concrete open-source contribution plan |
+| [Dify/maintainer-submission-kit.md](Dify/maintainer-submission-kit.md) | Ready-to-use upstream submission checklist and first-PR plan |
 | [Dify/portfolio-case-study.md](Dify/portfolio-case-study.md) | Hiring-manager-ready case study |
 | [Dify/lessons-learned.md](Dify/lessons-learned.md) | Reflection on PM discovery and contribution strategy |
+| [RECRUITER_BRIEF.md](RECRUITER_BRIEF.md) | One-page recruiter-facing summary |
 | [CHANGELOG.md](CHANGELOG.md) | Files created and modified |
 
 ## Research Inputs
@@ -76,6 +93,16 @@ Open a Dify GitHub discussion or RFC proposing Dify Quality Hub:
 3. Add eval comparison between draft and published app versions.
 4. Add node-level trace detail and RAG diagnostics.
 5. Add release gates, scheduled evals, cost budgets, and enterprise reports.
+
+## Best Next Contribution
+
+Do **not** start with a giant PR for the full Quality Hub. The best upstream path is:
+
+1. Open the RFC discussion.
+2. Ask maintainers whether `Monitoring` or a new `Quality` section is the right product surface.
+3. Submit a small first PR: feedback rating/comment filters in logs.
+4. Follow with log export and workflow token breakdown.
+5. Use those primitives to justify eval datasets and draft-vs-published comparisons.
 
 ## Portfolio Positioning
 

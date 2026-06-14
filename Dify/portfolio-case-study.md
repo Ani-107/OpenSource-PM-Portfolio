@@ -76,7 +76,15 @@ to:
 - RFC.
 - GitHub feature proposal.
 - Contribution plan.
-- DOCX contribution report.
+- Maintainer submission kit.
+- Lessons learned.
+
+## Interview Talking Points
+
+- I chose a production-quality opportunity instead of a flashy builder feature because it compounds across retention, enterprise readiness, monetization, and developer trust.
+- I decomposed a large product direction into maintainer-friendly contribution slices: log filters, exports, token breakdown, eval datasets, and release comparison.
+- I used public evidence instead of private assumptions: docs, issues, discussions, competitor positioning, and observable product gaps.
+- I treated open-source contribution as product work: reduce maintainer review risk, clarify non-goals, and propose a small first PR.
 
 ## Resume-Ready Summary
 
