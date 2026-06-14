@@ -1,0 +1,5 @@
+# Keep personal Word documents and generated office artifacts out of the public portfolio repo.
+*.docx
+*.doc
+~$*
+
